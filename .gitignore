@@ -23,6 +23,7 @@ __pycache__
 
 .local
 .cache
+.devcontainer
 .bento*
 .cache-loader
 .coverage
